@@ -1,3 +1,7 @@
+p {
+	color: blue;
+}
+
 .header_image{
 	max-width:100%;
 	max-height:300px;
