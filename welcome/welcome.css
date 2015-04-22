@@ -1,6 +1,7 @@
 html, body{
 	background-color:brown;
-	height:100%;
+	height:auto;
+	width:auto;
 }
 
 .headimg_container {
