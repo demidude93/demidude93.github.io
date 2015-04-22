@@ -34,7 +34,7 @@ html, body{
 }
 
 .foot{
-	bottom:0;
+	position: relative;
 	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
