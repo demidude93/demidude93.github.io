@@ -36,8 +36,9 @@ html, body{
  	height: 100%;
 }
 
-.foot{
+.foot, .push{
 	background-color: #81c784 !important;
+	height:  4em;
 	
 }
 
