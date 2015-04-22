@@ -19,6 +19,9 @@ html, body{
 .links{
 	background-color: black;
 	margin:auto 50px;
+	padding: 1em;
+} .links a{
+	color:#CCCCCC;
 }
 
 .main{
