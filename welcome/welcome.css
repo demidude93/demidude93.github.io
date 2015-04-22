@@ -10,7 +10,9 @@ html, body{
 
 .headimg_container {
     height: 200px;
-    width: auto;   
+    width: auto;  
+	padding:1em;
+	border-bottom:6px double gray;	
 }
 
 .header_image{
@@ -31,7 +33,7 @@ html, body{
 }
 
 .main{
-	background-color: #FFFFFF;
+	background-color: #FFCC99;
 	margin-left: auto;
  	margin-right: auto;
  	text-align: center;
