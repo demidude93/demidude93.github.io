@@ -19,17 +19,10 @@ html, body{
 	max-height:200px;
 }
 
-.header_container {
-	padding:1em;
-	border-bottom:6px double gray;
-    background: blue;
-    height: 20px;
-    width: auto;   
-	margin:auto 50px;
-}
 
 .links{
 	background-color: black;
+	margin:auto 50px;
 }
 
 .main{
