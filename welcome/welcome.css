@@ -26,11 +26,18 @@ html, body{
 	color:#CCCCCC;
 }
 
+.sidebar{
+	background-color:#99CCFF;
+	width:20%;
+	text-align: center;
+}
+
 .main{
 	background-color: #FFD6AD;
 	margin:auto 50px;
  	text-align: center;
  	height: 100%;
+	width:80%;
 }
 
 .POS-container{
