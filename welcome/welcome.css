@@ -29,7 +29,9 @@ html, body{
 .sidebar{
 	background-color:#99CCFF;
 	width:20%;
+	height:100%;
 	text-align: center;
+	float:left;
 }
 
 .main{
@@ -38,6 +40,7 @@ html, body{
  	text-align: center;
  	height: 100%;
 	width:80%;
+	float:left;
 }
 
 .POS-container{
