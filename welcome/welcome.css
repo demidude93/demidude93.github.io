@@ -25,6 +25,7 @@ html, body{
     background: blue;
     height: 20px;
     width: auto;   
+	margin:auto 50px;
 }
 
 .links{
@@ -35,7 +36,7 @@ html, body{
 	position: relative;
 	padding:1em 1em 5em;
 	background-color: #FFCC99;
-	margin:auto 70px;
+	margin:auto 50px;
  	text-align: center;
  	height: 100%;
 }
