@@ -36,11 +36,7 @@ body{
 }
 
 .foot{
-	background-color: #81c784 !important;
-	position: relative;
-	margin-top: -180px; /* negative value of footer height */
-	height: 180px;
-	clear:both;
+	
 }
 
 .wrapper{
