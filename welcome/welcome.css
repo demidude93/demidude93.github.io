@@ -19,6 +19,8 @@ html, body{
 }
 
 .header_container {
+	padding:1em;
+	border-bottom:6px double gray;
     background: blue;
     height: 20px;
     width: auto;   
@@ -34,11 +36,13 @@ html, body{
  	margin-right: auto;
  	text-align: center;
 	height:100%;
+	height:auto;
  	min-height: 100%;
 }
 
 .foot{
-	background-color: #81c784 !important;
-	height:  4em;
-	
+	position:absolute;
+	width:100%;
+	bottom:0;
+	background-color: #81c784;	
 }
