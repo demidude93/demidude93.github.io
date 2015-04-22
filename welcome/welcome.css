@@ -2,7 +2,7 @@ p {
 	color: blue;
 }
 
-body{
+html, body{
 	background-color:brown;
 	height: 100%
 }
