@@ -11,7 +11,6 @@ html, body{
     height: 200px;
     width: auto;  
 	padding:1em;
-	border-bottom:6px double gray;	
 }
 
 .header_image{
@@ -40,6 +39,6 @@ html, body{
 	background-color: #81c784;	
 	border-top:6px double gray;
 	padding:1em;
-	margin:auto;
+	margin:auto 70px;
 	clear:both;
 }
