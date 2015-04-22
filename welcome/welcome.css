@@ -1,7 +1,3 @@
-p {
-	color: blue;
-}
-
 html, body{
 	background-color:brown;
 	height:100%;
@@ -25,7 +21,6 @@ html, body{
 }
 
 .main{
-	
 	padding:1em 1em 5em;
 	background-color: #FFCC99;
 	margin:auto 50px;
@@ -34,7 +29,6 @@ html, body{
 }
 
 .foot{
-	
 	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
