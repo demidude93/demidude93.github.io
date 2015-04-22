@@ -29,7 +29,7 @@ html, body{
 }
 
 .POS-container{
-	width:0 20px;
+	width:100%;
 	padding:1em;
 }
 
@@ -37,5 +37,5 @@ html, body{
 	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
-	margin:auto 70px;
+	margin:0 50px;
 }
