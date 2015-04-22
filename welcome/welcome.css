@@ -46,6 +46,7 @@ html, body{
 .foot{
 	position:absolute;
 	bottom:0;
+	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
 	padding:1em;
