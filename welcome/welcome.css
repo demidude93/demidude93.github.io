@@ -29,8 +29,7 @@ html, body{
 }
 
 .POS-container{
-	width:100%;
-	padding:1em;
+	width:auto;
 }
 
 .POS{
