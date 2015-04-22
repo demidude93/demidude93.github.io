@@ -28,4 +28,17 @@ body{
 
 .main{
 	background-color: #FFFFFF;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	float: none;
+ 	text-align: center;
+ 	height: 100%;
+}
+
+.foot{
+	background-color: #81c784 !important;
+	position: relative;
+	margin-top: -180px; /* negative value of footer height */
+	height: 180px;
+	clear:both;
 }
