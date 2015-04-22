@@ -4,7 +4,8 @@ p {
 
 html, body{
 	background-color:brown;
-	min-height: 100%
+	height:100%;
+	min-height: 100%;
 }
 
 .headimg_container {
@@ -31,7 +32,6 @@ html, body{
 	background-color: #FFFFFF;
 	margin-left: auto;
  	margin-right: auto;
- 	float: none;
  	text-align: center;
  	height: 100%;
 }
