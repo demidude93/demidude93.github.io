@@ -22,11 +22,10 @@ html, body{
 }
 
 .main{
-	position:relative;
 	background-color: #FFCC99;
 	margin:auto 50px;
  	text-align: center;
- 	height: auto;
+ 	height: 100%;
 }
 
 .POS-container{
