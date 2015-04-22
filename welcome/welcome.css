@@ -25,7 +25,7 @@ html, body{
 }
 
 .main{
-	position: relative;
+	
 	padding:1em 1em 5em;
 	background-color: #FFCC99;
 	margin:auto 50px;
@@ -34,7 +34,7 @@ html, body{
 }
 
 .foot{
-	position: relative;
+	
 	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
