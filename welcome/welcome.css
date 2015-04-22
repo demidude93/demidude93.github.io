@@ -34,18 +34,20 @@ html, body{
 
 .main{
 	position: relative;
+	padding:1em 1em 5em;
 	background-color: #FFCC99;
 	margin-left: auto;
  	margin-right: auto;
  	text-align: center;
-	height:100%;
 	height:auto;
  	min-height: 100%;
 }
 
 .foot{
 	position:absolute;
-	width:100%;
 	bottom:0;
 	background-color: #81c784;	
+	border-top:6px double gray;
+	padding:1em;
+	margin:0;
 }
