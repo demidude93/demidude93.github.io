@@ -50,9 +50,9 @@ html, body{
 }
 
 .POS{
-	width:auto;
+	width:100%;
 	background-color: #81c784;	
 	border-top:6px double gray;
-	margin:0 50px;
+	margin:0 5%;
 	float:left;
 }
