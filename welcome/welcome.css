@@ -54,4 +54,5 @@ html, body{
 	background-color: #81c784;	
 	border-top:6px double gray;
 	margin:0 50px;
+	float:left;
 }
