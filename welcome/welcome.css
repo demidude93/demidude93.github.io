@@ -18,6 +18,9 @@ html, body{
 
 #wrapper{
 	background-color:white;
+	float:left;
+	width:90%;
+	height:auto;
 }
 
 .links{
