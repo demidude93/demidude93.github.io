@@ -18,12 +18,12 @@ html, body{
 
 
 .links{
-	background-color:#2E0F00;
+	background-color:white;
 	margin:auto 5%;
 	padding: 1em;
-	color:#CCCCCC;
+	color:black;
 } .links a{
-	color:#CCCCCC;
+	color:black;
 }
 
 .intro{
@@ -62,9 +62,15 @@ html, body{
 
 .POS{
 	width:90%;
-	background-color: #81c784;	
+	background-color: white;	
 	border-top:6px double gray;
 	margin:0 5%;
 	float:left;
 	padding:20px 0;
+}
+
+.footnote{
+	text-align:center;
+	width:100%;
+	float:left;
 }
