@@ -16,9 +16,11 @@ html, body{
 	max-height:200px;
 }
 
+.wrapper{
+	background-color:white;
+}
 
 .links{
-	background-color:white;
 	margin:auto 5%;
 	padding: 1em;
 	color:black;
@@ -62,7 +64,6 @@ html, body{
 
 .POS{
 	width:90%;
-	background-color: white;	
 	border-top:6px double gray;
 	margin:0 5%;
 	float:left;
