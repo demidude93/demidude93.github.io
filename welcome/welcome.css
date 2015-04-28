@@ -23,11 +23,12 @@ html, body{
 	height:auto;
 	margin: auto 5%;
 	padding:0px;
+	border-radius:25px;
 }
 
 .links{
 	margin:auto 5%;
-	padding: 1em;
+	padding: 1em 0;
 	color:black;
 } .links a{
 	color:black;
